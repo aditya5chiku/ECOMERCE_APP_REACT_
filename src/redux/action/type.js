@@ -1,0 +1,15 @@
+export const REGISTER_SUCCSESS = "REGISTER_SUCSESS";
+export const REGISTER_FAILURE = "REGISTER_FAILURE";
+export const LOGIN_SUCCESS = "LOGIN_DONE";
+export const LOGIN_FAILURE = "LOGIN_FAILURE";
+export const LOAD_COMPANY = "LOAD_COMPANY";
+export const STOP_LOAD = "STOP_LOADER";
+export const SHOW = "SHOW";
+export const HIDE = "HIDE";
+export const USER_DETAILS = "USER_DETAILS"
+export const LOADER = "LOADER";
+export const USER_LOADED = "USER_LOADED";
+export const ADD_CATEGORY = "ADD__COMPANY"
+export const GET_CATEGORY = "GET_CATEGORY"
+export const START_LOADER = "START_LOADER"
+export const STOP_LOADER = "STOP_LOADER"
